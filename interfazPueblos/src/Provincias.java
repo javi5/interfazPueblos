@@ -9,7 +9,7 @@ import javax.swing.ComboBoxModel;
 
 /**
  *
- * @author alumno
+ * @author Javier Tomás Porto
  */
 public class Provincias extends javax.swing.JFrame {
 
